@@ -1,0 +1,12 @@
+.main-container {
+    margin: 1% 10%;
+    height: 80%;
+    background-color: #e4e4e4;
+    padding: 20px 50px;
+}
+
+.content-centered {
+    display: flex;
+    justify-content: center;
+}
+

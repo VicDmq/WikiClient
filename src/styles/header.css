@@ -1,0 +1,25 @@
+.header-container {
+  display: flex;
+  padding: 10px 0;
+  margin: 1% 10%;
+  background-color: #297e29;
+}
+
+.header-title {
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  width: 100%;
+  display: inherit;
+  justify-content: center;
+  margin-left: -60px;
+}
+
+.header-backLink {
+  margin-left: 20px;
+  width: 40px;
+}
+
+.header-backLink a {
+  color: white;
+}

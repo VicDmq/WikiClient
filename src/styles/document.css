@@ -1,0 +1,16 @@
+.document-title {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.document-content {
+  margin-top: 5px;
+}
+
+.document-revisions {
+  margin-top: 25px;
+}
+
+.a-selected a {
+  color: #6b75f3;
+}
